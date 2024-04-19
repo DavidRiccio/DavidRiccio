@@ -2,13 +2,6 @@
   <img height="150" src="https://media.tenor.com/I5iY9Hj8YGQAAAAi/kroppa-digital.gif"  />
 </div>
 
-
-###
-
-<div align="center">
-  <img src="https://visitor-badge.laobi.icu/badge?page_id=DavidRiccio.DavidRiccio&"  />
-</div>
-
 ###
 
 <h1 align="center">JJ ITEMS</h1>
