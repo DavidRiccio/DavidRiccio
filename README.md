@@ -1,5 +1,5 @@
 # 💫 About Me:
-Hi there! 👋 I'm David, a 22-year-old developer passionate about creating efficient solutions and exploring cutting-edge tech. My focus revolves around [Your Field/Area of Interest, e.g., web development, AI, mobile apps, automation], where I blend creativity with code to build meaningful projects.<br><br>💡 Always learning, iterating, and pushing my limits. Open to connecting, collaborating, or just chatting about tech! Let’s build something awesome together.<br><br>📫 Reach me: dricciodeabreu1@gmail.com <br><br>"Code is art; make it meaningful." 💻✨
+Hi there! 👋 I'm David, a 22-year-old developer passionate about creating efficient solutions and exploring cutting-edge tech. My focus revolves around web development,where I blend creativity with code to build meaningful projects.<br><br>💡 Always learning, iterating, and pushing my limits. Open to connecting, collaborating, or just chatting about tech! Let’s build something awesome together.<br><br>📫 Reach me: dricciodeabreu1@gmail.com <br><br>"Code is art; make it meaningful." 💻✨
 
 ###
 
